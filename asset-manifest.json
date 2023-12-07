@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/Restaurant-App-React-Js/static/css/main.7edab1e2.css",
-    "main.js": "/Restaurant-App-React-Js/static/js/main.f18406d8.js",
+    "main.css": "/Restaurant-App-React-Js/static/css/main.43c2488e.css",
+    "main.js": "/Restaurant-App-React-Js/static/js/main.a0a83bfa.js",
     "static/media/bg.png": "/Restaurant-App-React-Js/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/Restaurant-App-React-Js/static/media/welcome.d724eb984456d9c97470.png",
     "static/media/laurels.png": "/Restaurant-App-React-Js/static/media/laurels.e760828692795d4aafd7.png",
-    "static/media/menu.png": "/Restaurant-App-React-Js/static/media/menu.a8287c67809afebcc280.png",
     "static/media/gallery04.png": "/Restaurant-App-React-Js/static/media/gallery04.c36a695f8a3b9d311106.png",
     "static/media/gallery02.png": "/Restaurant-App-React-Js/static/media/gallery02.27663bd9016b72ccd328.png",
     "static/media/gallery01.png": "/Restaurant-App-React-Js/static/media/gallery01.f2cbffe3049d6f91e0df.png",
@@ -13,18 +12,14 @@
     "static/media/overlaybg.png": "/Restaurant-App-React-Js/static/media/overlaybg.165362eea72d1614ae28.png",
     "static/media/G.png": "/Restaurant-App-React-Js/static/media/G.b571eb82e589ec305ec9.png",
     "static/media/logo.png": "/Restaurant-App-React-Js/static/media/logo.0286194c03de0a90dac9.png",
-    "static/media/award02.png": "/Restaurant-App-React-Js/static/media/award02.8bbdd51499739653b003.png",
-    "static/media/award05.png": "/Restaurant-App-React-Js/static/media/award05.48a7f5206184009dcb29.png",
-    "static/media/award01.png": "/Restaurant-App-React-Js/static/media/award01.361a4bc44b59b55abeda.png",
-    "static/media/award03.png": "/Restaurant-App-React-Js/static/media/award03.3f7ee934c17dccbd5fc6.png",
     "static/media/sign.png": "/Restaurant-App-React-Js/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/Restaurant-App-React-Js/index.html",
-    "static/media/spoon.svg": "/Restaurant-App-React-Js/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.7edab1e2.css.map": "/Restaurant-App-React-Js/static/css/main.7edab1e2.css.map",
-    "main.f18406d8.js.map": "/Restaurant-App-React-Js/static/js/main.f18406d8.js.map"
+    "static/media/spoon.svg": "/Restaurant-App-React-Js/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
+    "main.43c2488e.css.map": "/Restaurant-App-React-Js/static/css/main.43c2488e.css.map",
+    "main.a0a83bfa.js.map": "/Restaurant-App-React-Js/static/js/main.a0a83bfa.js.map"
   },
   "entrypoints": [
-    "static/css/main.7edab1e2.css",
-    "static/js/main.f18406d8.js"
+    "static/css/main.43c2488e.css",
+    "static/js/main.a0a83bfa.js"
   ]
 }
